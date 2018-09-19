@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on CozyKeys</title>
+    <link>http://example.org/reviews/</link>
+    <description>Recent content in Reviews on CozyKeys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 08:14:19 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atreus62 Review</title>
+      <link>http://example.org/reviews/atreus62/</link>
+      <pubDate>Sat, 16 Dec 2017 17:30:00 -0700</pubDate>
+      
+      <guid>http://example.org/reviews/atreus62/</guid>
+      <description>Atreus62 Review Saturday, Dec 16, 2017  
+Here is my review of the Atreus62 keyboard after using it as a daily driver for 6 weeks.
+  
+Technical details  Gateron red switches Cherry Profile PBT keycaps (EnjoyPBT &amp;amp; Gateron blanks)  Pros  The layout is very comfortable for the most part  I love columnar stagger and having multiple keys to press with my thumbs Only two keys are uncomfortable to press  Great for gaming  The left hand can comfortably rest on WASD Easy to play games with very little to no remapping  Compact  Previous ergonomic keyboards I used such as the Kinesis Advantage are big and hard to travel with Similar size to a standard 60% Practical to throw in a backpack Easy to have a sleeve made  QMK firmware  Fully programmable One of my biggest complaints about the Kinesis is that is runs proprietary fimware and I was too lazy to replace the PCB with a stapleton and teensy I can choose what to put on the top layer and put other keys such as arrows and curly braces on lower layers  Nice sound and aesthetic  The size and hallowness of the advantage makes it sound bad, even after I installed some dampening foam on the inside This board sounds and doesn&amp;rsquo;t look as crazy   Cons  Inner-most thumb keys  The two 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on CozyKeys</title>
+    <link>http://example.org/news/</link>
+    <description>Recent content in News on CozyKeys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 07:12:48 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CozyKeys.xyz is Live!</title>
+      <link>http://example.org/news/cozykeys_site_launch/</link>
+      <pubDate>Thu, 06 Sep 2018 21:53:53 -0700</pubDate>
+      
+      <guid>http://example.org/news/cozykeys_site_launch/</guid>
+      <description>CozyKeys.xyz is Live! Thursday, Sep 6, 2018  I had a few weeks in which I was waiting for the supplies to arrive in the mail for the rev2 Bloomer keyboards. In this time, I decided to rethink how I&amp;rsquo;m sharing my content.
+In the past, I&amp;rsquo;ve written blog posts on a personal website, posted build logs to Imgur and GitHub gists, shared photos on Reddit, and recently started posting updates on Keebtalk.</description>
+    </item>
+    
+  </channel>
+</rss>

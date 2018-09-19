@@ -1,0 +1,121 @@
+html {
+}
+body {
+    /* This black will add a background image that doesn't scroll */
+    /*
+    background-image: url("http://assets.cozykeys.xyz/images/cozykeys-bg-dim-85.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    */
+}
+.outer-navbar-container {
+    width: 100%;
+}
+.inner-navbar-container {
+    display: flex;
+    justify-content: center;
+    max-width: 800px;
+}
+.outer-alert-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.inner-alert-container {
+    width: 90%;
+    max-width: 800px;
+}
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.page-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.content-container {
+    width: 100%;
+    max-width: 800px;
+    padding: 10px;
+}
+.navbar-icon-container {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.glyph-24 {
+    font-size: 24px;
+}
+.glyph-32 {
+    font-size: 32px;
+}
+.glyph-36 {
+    font-size: 36px;
+}
+.glyph-48 {
+    font-size: 48px;
+}
+.glyph-64 {
+    font-size: 64px;
+}
+.glyph-128 {
+    font-size: 128px;
+}
+.default-list-item-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.home-page-component-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.home-page-component {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 18rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.home-page-component-header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 48px;
+}
+.home-page-component-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.home-page-component-body {
+    text-align: center;
+}
+.home-page-component-title {
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+.list-content-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.no-margin {
+    margin: 0px;
+}
+.list-card-caption {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
