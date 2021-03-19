@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sa Lime on CozyKeys</title>
-    <link>http://example.org/tags/sa-lime/</link>
-    <description>Recent content in Sa Lime on CozyKeys</description>
+    <title>sa lime on CozyKeys</title>
+    <link>http://cozykeys.xyz/tags/sa-lime/</link>
+    <description>Recent content in sa lime on CozyKeys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Sep 2018 21:31:26 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/sa-lime/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cozykeys.xyz/tags/sa-lime/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bloomer - SA Lime</title>
-      <link>http://example.org/gallery/bloomer-rev2-1/</link>
+      <link>http://cozykeys.xyz/gallery/bloomer-rev2-1/</link>
       <pubDate>Tue, 11 Sep 2018 21:31:26 -0700</pubDate>
       
-      <guid>http://example.org/gallery/bloomer-rev2-1/</guid>
-      <description> Bloomer (Rev2)   Switches Kailh Box White   Keycaps SA Lime from PimpMyKeyboard       </description>
+      <guid>http://cozykeys.xyz/gallery/bloomer-rev2-1/</guid>
+      <description>Bloomer (Rev2)    </description>
     </item>
     
   </channel>

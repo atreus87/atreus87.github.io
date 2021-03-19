@@ -21,7 +21,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarColor01">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item  ">
+                <li class="nav-item  active">
                     <a class="nav-link" href="/keyboards/">Keyboards</a>
                 </li>
                 <li class="nav-item ">
@@ -48,44 +48,36 @@
 </nav>
 <div class="page-container">
             <div class="content-container">
-<div class="jumbotron">
-        <h1 class="display-4" style="text-align: center;">Welcome to CozyKeys!</h1>
-        <p class="lead">Ergonomic. Mechanical. Cozy.</p>
-        <a href="/keyboards/" class="btn btn-primary">About »</a>
-    </div>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
 
-    <div class="home-page-component-container">
-        <div class="home-page-component">
-            <div class="home-page-component-header">
-                <i class="far fa-keyboard glyph-36"></i>
-                <h2 class="home-page-component-title">Keyboards</h2>
-            </div>
-            <div class="home-page-component-body">
-                <p class="lead home-page-component-text">Check out the CozyKeys keyboard lineup</p>
-                <a href="/keyboards/" class="btn btn-primary">Keyboards »</a>
-            </div>
-        </div>
-        <div class="home-page-component">
-            <div class="home-page-component-header">
-                <i class="fa fa-wrench glyph-36"></i>
-                <h2 class="home-page-component-title">Builds</h2>
-            </div>
-            <div class="home-page-component-body">
-                <p class="lead home-page-component-text">Read a build log and judge my soldering</p>
-                <a href="/builds/" class="btn btn-primary">Builds »</a>
-            </div>
-        </div>
-        <div class="home-page-component">
-            <div class="home-page-component-header">
-                <i class="fas fa-star-half-alt glyph-36"></i>
-                <h2 class="home-page-component-title">Reviews</h2>
-            </div>
-            <div class="home-page-component-body">
-                <p class="lead home-page-component-text">Watch a product review before you buy</p>
-                <a href="/reviews/" class="btn btn-primary">Reviews »</a>
-            </div>
-        </div>
-    </div></div>
+        
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+        
+
+
+        
+            <li class="breadcrumb-item text-muted">Keyboards</li>
+        
+      </ol>
+    </nav>
+
+<h1 id="keyboards">Keyboards</h1>
+<div style="width:100%;display:flex;justify-content:center;flex-wrap:wrap;"><div class="card" style="width: 22rem; margin: 10px;">
+                <a href="/keyboards/bloomer/"><img class="card-img-top" src="http://assets.cozykeys.xyz/images/keyboards/bloomer/bloomer-angle-2_800x800.jpg" alt="Bloomer"></a>
+                <div class="card-body">
+                    <h5 class="card-title">Bloomer</h5>
+                    <p class="card-text">An 87 key ergonomic keyboard</p>
+                    <a href="/keyboards/bloomer/" class="btn btn-primary">Learn More</a>
+                </div>
+            </div><div class="card" style="width: 22rem; margin: 10px;">
+                <a href="/keyboards/speedo/"><img class="card-img-top" src="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-angle_800x800.jpg" alt="Speedo"></a>
+                <div class="card-body">
+                    <h5 class="card-title">Speedo</h5>
+                    <p class="card-text">A 66 key ergonomic keyboard</p>
+                    <a href="/keyboards/speedo/" class="btn btn-primary">Learn More</a>
+                </div>
+            </div></div></div>
         </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
@@ -96,3 +88,4 @@
 <script type="text/javascript" src="/js/main.js"></script>
 </body>
 </html>
+

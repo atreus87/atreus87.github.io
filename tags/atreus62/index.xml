@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atreus62 on CozyKeys</title>
-    <link>http://example.org/tags/atreus62/</link>
-    <description>Recent content in Atreus62 on CozyKeys</description>
+    <title>atreus62 on CozyKeys</title>
+    <link>http://cozykeys.xyz/tags/atreus62/</link>
+    <description>Recent content in atreus62 on CozyKeys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Sep 2018 21:10:26 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/atreus62/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cozykeys.xyz/tags/atreus62/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atreus62 - EnjoyPBT</title>
-      <link>http://example.org/gallery/atreus62-1/</link>
+      <link>http://cozykeys.xyz/gallery/atreus62-1/</link>
       <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
       
-      <guid>http://example.org/gallery/atreus62-1/</guid>
-      <description> Atreus62   Switches Gateron Red   Keycaps EnjoyPBT Red &amp; Blank Gateron Black   Case Matte Black Acrylic      </description>
+      <guid>http://cozykeys.xyz/gallery/atreus62-1/</guid>
+      <description>Atreus62   </description>
     </item>
     
   </channel>

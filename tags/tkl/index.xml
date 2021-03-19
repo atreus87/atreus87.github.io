@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tkl on CozyKeys</title>
-    <link>http://example.org/tags/tkl/</link>
-    <description>Recent content in Tkl on CozyKeys</description>
+    <title>tkl on CozyKeys</title>
+    <link>http://cozykeys.xyz/tags/tkl/</link>
+    <description>Recent content in tkl on CozyKeys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Sep 2018 21:10:26 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/tkl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cozykeys.xyz/tags/tkl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cooler Master Quickfire - Tai Hao Sunshine</title>
-      <link>http://example.org/gallery/quickfire-1/</link>
+      <link>http://cozykeys.xyz/gallery/quickfire-1/</link>
       <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
       
-      <guid>http://example.org/gallery/quickfire-1/</guid>
-      <description> Cooler Master Quickfire   Switches Cherry MX Blue   Keycaps Tai Hao Sunshine   Fun Fact My first mechanical keyboard!      </description>
+      <guid>http://cozykeys.xyz/gallery/quickfire-1/</guid>
+      <description>Cooler Master Quickfire   </description>
     </item>
     
   </channel>

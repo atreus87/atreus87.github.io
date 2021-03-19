@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Builds on CozyKeys</title>
-    <link>http://example.org/builds/</link>
+    <link>http://cozykeys.xyz/builds/</link>
     <description>Recent content in Builds on CozyKeys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Sep 2018 07:07:26 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/builds/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cozykeys.xyz/builds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Hand-Wired Bloomer</title>
-      <link>http://example.org/builds/bloomer-first-handwire/</link>
+      <link>http://cozykeys.xyz/builds/bloomer-first-handwire/</link>
       <pubDate>Tue, 04 Sep 2018 07:06:51 -0700</pubDate>
       
-      <guid>http://example.org/builds/bloomer-first-handwire/</guid>
+      <guid>http://cozykeys.xyz/builds/bloomer-first-handwire/</guid>
       <description>First Handwired Bloomer This keyboard was previously named the Atreus87/Ergo87
 Previewing the Layout Before building the keyboard, I put some switches and keycaps on it to make sure the layout is comfortable.
  Here&amp;rsquo;s another angle showing the thumb key profiles.
@@ -25,20 +25,20 @@ Previewing the Layout Before building the keyboard, I put some switches and keyc
     
     <item>
       <title>First Handwired Speedo</title>
-      <link>http://example.org/builds/speedo-first-handwire/</link>
+      <link>http://cozykeys.xyz/builds/speedo-first-handwire/</link>
       <pubDate>Tue, 04 Sep 2018 07:06:39 -0700</pubDate>
       
-      <guid>http://example.org/builds/speedo-first-handwire/</guid>
+      <guid>http://cozykeys.xyz/builds/speedo-first-handwire/</guid>
       <description>First Handwired Speedo This build log documents the process I went through in creating the first, functional Speedo keyboard. It is rather long so a table of contents is provided to make finding a specific step a bit easier.
-Table of Contents  2018/02/16  Creating the Thumb Clusters  2018/02/23  Rev1 Comes to an End Oops Solution Next Steps  2018/02/25  Order is in for Rev2  2018/02/26  Deciding on Parts The Decision A Close Second  2018/03/07  The parts arrived!</description>
+Table of Contents  2018/02/16  Creating the Thumb Clusters   2018/02/23  Rev1 Comes to an End Oops Solution Next Steps   2018/02/25  Order is in for Rev2   2018/02/26  Deciding on Parts  The Decision A Close Second     2018/03/07  The parts arrived!</description>
     </item>
     
     <item>
       <title>First Iris Build</title>
-      <link>http://example.org/builds/iris-1/</link>
+      <link>http://cozykeys.xyz/builds/iris-1/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://example.org/builds/iris-1/</guid>
+      <guid>http://cozykeys.xyz/builds/iris-1/</guid>
       <description>First Iris Build Wednesday, Jan 24, 2018  Wednesday 01/24/2018 TL;DR A few more parts arrived but I&amp;rsquo;m still waiting on the case.
 Notes Today I got back from Hawaii and a few other parts arrived:
  Keycaps from PimpMyKeyboard Strip LED 470 Ohm resistors  Still waiting on the case pieces which should come within the next few business days. Hopefully I&amp;rsquo;ll get started on the build this weekend.</description>
@@ -46,10 +46,10 @@ Notes Today I got back from Hawaii and a few other parts arrived:
     
     <item>
       <title>Heroes of the Storm Advantage2</title>
-      <link>http://example.org/builds/kinesis-advantage2-1/</link>
+      <link>http://cozykeys.xyz/builds/kinesis-advantage2-1/</link>
       <pubDate>Tue, 18 Jul 2017 12:24:58 -0700</pubDate>
       
-      <guid>http://example.org/builds/kinesis-advantage2-1/</guid>
+      <guid>http://cozykeys.xyz/builds/kinesis-advantage2-1/</guid>
       <description>Heroes of the Storm Advantage2 Tuesday, Jul 18, 2017  Introduction This post will document my adventure of taking my favorite keyboard and modifying it to make it my own. If you aren&amp;rsquo;t interested in reading about the process, here is the final product:
  Background A few years ago I bought my first mechanical keyboard; it was a Coolermaster CM Storm with cherry MX blue switches and I instantly loved it.</description>
     </item>

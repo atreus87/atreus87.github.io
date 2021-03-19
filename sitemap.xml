@@ -1,212 +1,194 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/gallery/bloomer-rev2-1/</loc>
+    <loc>http://cozykeys.xyz/tags/bloomer/</loc>
     <lastmod>2018-09-11T21:31:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/atreus62-1/</loc>
+    <loc>http://cozykeys.xyz/gallery/bloomer-rev2-1/</loc>
+    <lastmod>2018-09-11T21:31:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/sa/</loc>
+    <lastmod>2018-09-11T21:31:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/sa-lime/</loc>
+    <lastmod>2018-09-11T21:31:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/</loc>
+    <lastmod>2018-09-11T21:31:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/advantage2/</loc>
     <lastmod>2018-09-10T21:10:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/quickfire-1/</loc>
+    <loc>http://cozykeys.xyz/tags/atreus62/</loc>
     <lastmod>2018-09-10T21:10:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/kinesis-advantage2-1/</loc>
+    <loc>http://cozykeys.xyz/gallery/atreus62-1/</loc>
     <lastmod>2018-09-10T21:10:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/ergodox-full-hand-1/</loc>
+    <loc>http://cozykeys.xyz/tags/cooler-master/</loc>
+    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/gallery/quickfire-1/</loc>
+    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/enjoypbt/</loc>
+    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/gallery/kinesis-advantage2-1/</loc>
+    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/kinesis/</loc>
+    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/tai-hao/</loc>
+    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/tkl/</loc>
+    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/cherry/</loc>
     <lastmod>2018-09-09T12:31:23-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/dactyl-ice-cap-1/</loc>
+    <loc>http://cozykeys.xyz/tags/ergodox/</loc>
+    <lastmod>2018-09-09T12:31:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/gallery/ergodox-full-hand-1/</loc>
+    <lastmod>2018-09-09T12:31:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/tags/dactyl/</loc>
     <lastmod>2018-09-09T11:43:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/gallery/</loc>
+    <loc>http://cozykeys.xyz/gallery/dactyl-ice-cap-1/</loc>
+    <lastmod>2018-09-09T11:43:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/gallery/</loc>
     <lastmod>2018-09-04T20:36:52-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/reviews/</loc>
+    <loc>http://cozykeys.xyz/reviews/</loc>
     <lastmod>2018-09-04T08:14:19-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/builds/</loc>
+    <loc>http://cozykeys.xyz/builds/</loc>
     <lastmod>2018-09-04T07:07:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/builds/bloomer-first-handwire/</loc>
+    <loc>http://cozykeys.xyz/builds/bloomer-first-handwire/</loc>
     <lastmod>2018-09-04T07:06:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/builds/speedo-first-handwire/</loc>
+    <loc>http://cozykeys.xyz/builds/speedo-first-handwire/</loc>
     <lastmod>2018-09-04T07:06:39-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://cozykeys.xyz/tags/speedo/</loc>
+    <lastmod>2018-09-04T07:06:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/about/</loc>
     <lastmod>2018-09-04T06:49:03-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/keyboards/bloomer/</loc>
+    <loc>http://cozykeys.xyz/keyboards/bloomer/</loc>
     <lastmod>2018-09-04T06:40:05-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/keyboards/speedo/</loc>
+    <loc>http://cozykeys.xyz/categories/</loc>
+    <lastmod>2018-09-04T06:40:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/categories/keyboard/</loc>
+    <lastmod>2018-09-04T06:40:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/keyboards/speedo/</loc>
     <lastmod>2018-09-04T06:40:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://cozykeys.xyz/</loc>
     <lastmod>2018-09-04T06:39:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/keyboards/</loc>
+    <loc>http://cozykeys.xyz/keyboards/</loc>
     <lastmod>2018-09-04T06:39:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/builds/iris-1/</loc>
+    <loc>http://cozykeys.xyz/builds/iris-1/</loc>
     <lastmod>2018-01-24T00:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/reviews/atreus62/</loc>
+    <loc>http://cozykeys.xyz/tags/iris/</loc>
+    <lastmod>2018-01-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cozykeys.xyz/reviews/atreus62/</loc>
     <lastmod>2017-12-16T17:30:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/builds/kinesis-advantage2-1/</loc>
+    <loc>http://cozykeys.xyz/builds/kinesis-advantage2-1/</loc>
     <lastmod>2017-07-18T12:24:58-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/advantage2/</loc>
-    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/atreus62/</loc>
-    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/bloomer/</loc>
-    <lastmod>2018-09-11T21:31:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/cherry/</loc>
-    <lastmod>2018-09-09T12:31:23-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/cooler-master/</loc>
-    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/dactyl/</loc>
-    <lastmod>2018-09-09T11:43:01-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/enjoypbt/</loc>
-    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/ergodox/</loc>
-    <lastmod>2018-09-09T12:31:23-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/iris/</loc>
-    <lastmod>2018-01-24T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/keyboard/</loc>
-    <lastmod>2018-09-04T06:40:05-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/kinesis/</loc>
-    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/sa/</loc>
-    <lastmod>2018-09-09T11:43:01-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/sa-lime/</loc>
-    <lastmod>2018-09-11T21:31:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/speedo/</loc>
-    <lastmod>2018-09-04T07:06:39-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/tai-hao/</loc>
-    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/tkl/</loc>
-    <lastmod>2018-09-10T21:10:26-07:00</lastmod>
-    <priority>0</priority>
+    <loc>http://cozykeys.xyz/series/</loc>
   </url>
   
 </urlset>

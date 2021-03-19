@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dactyl on CozyKeys</title>
-    <link>http://example.org/tags/dactyl/</link>
-    <description>Recent content in Dactyl on CozyKeys</description>
+    <title>dactyl on CozyKeys</title>
+    <link>http://cozykeys.xyz/tags/dactyl/</link>
+    <description>Recent content in dactyl on CozyKeys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 11:43:01 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/dactyl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cozykeys.xyz/tags/dactyl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dactyl - Gateron Green - SA Ice Cap</title>
-      <link>http://example.org/gallery/dactyl-ice-cap-1/</link>
+      <link>http://cozykeys.xyz/gallery/dactyl-ice-cap-1/</link>
       <pubDate>Sun, 09 Sep 2018 11:43:01 -0700</pubDate>
       
-      <guid>http://example.org/gallery/dactyl-ice-cap-1/</guid>
-      <description> Dactyl   Switches Gateron Green   Keycaps SA Ice Cap   Case 3D Printed (Black Filament)        </description>
+      <guid>http://cozykeys.xyz/gallery/dactyl-ice-cap-1/</guid>
+      <description>Dactyl     </description>
     </item>
     
   </channel>

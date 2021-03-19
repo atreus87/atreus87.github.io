@@ -1,148 +1,148 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CozyKeys</title>
-    <link>http://example.org/tags/</link>
+    <link>http://cozykeys.xyz/tags/</link>
     <description>Recent content in Tags on CozyKeys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Sep 2018 21:10:26 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 21:31:26 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cozykeys.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Advantage2</title>
-      <link>http://example.org/tags/advantage2/</link>
-      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
-      
-      <guid>http://example.org/tags/advantage2/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Atreus62</title>
-      <link>http://example.org/tags/atreus62/</link>
-      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
-      
-      <guid>http://example.org/tags/atreus62/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bloomer</title>
-      <link>http://example.org/tags/bloomer/</link>
+      <title>bloomer</title>
+      <link>http://cozykeys.xyz/tags/bloomer/</link>
       <pubDate>Tue, 11 Sep 2018 21:31:26 -0700</pubDate>
       
-      <guid>http://example.org/tags/bloomer/</guid>
+      <guid>http://cozykeys.xyz/tags/bloomer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cherry</title>
-      <link>http://example.org/tags/cherry/</link>
-      <pubDate>Sun, 09 Sep 2018 12:31:23 -0700</pubDate>
-      
-      <guid>http://example.org/tags/cherry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cooler Master</title>
-      <link>http://example.org/tags/cooler-master/</link>
-      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
-      
-      <guid>http://example.org/tags/cooler-master/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dactyl</title>
-      <link>http://example.org/tags/dactyl/</link>
-      <pubDate>Sun, 09 Sep 2018 11:43:01 -0700</pubDate>
-      
-      <guid>http://example.org/tags/dactyl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enjoypbt</title>
-      <link>http://example.org/tags/enjoypbt/</link>
-      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
-      
-      <guid>http://example.org/tags/enjoypbt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ergodox</title>
-      <link>http://example.org/tags/ergodox/</link>
-      <pubDate>Sun, 09 Sep 2018 12:31:23 -0700</pubDate>
-      
-      <guid>http://example.org/tags/ergodox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iris</title>
-      <link>http://example.org/tags/iris/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://example.org/tags/iris/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kinesis</title>
-      <link>http://example.org/tags/kinesis/</link>
-      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
-      
-      <guid>http://example.org/tags/kinesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sa</title>
-      <link>http://example.org/tags/sa/</link>
-      <pubDate>Sun, 09 Sep 2018 11:43:01 -0700</pubDate>
-      
-      <guid>http://example.org/tags/sa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sa Lime</title>
-      <link>http://example.org/tags/sa-lime/</link>
+      <title>sa</title>
+      <link>http://cozykeys.xyz/tags/sa/</link>
       <pubDate>Tue, 11 Sep 2018 21:31:26 -0700</pubDate>
       
-      <guid>http://example.org/tags/sa-lime/</guid>
+      <guid>http://cozykeys.xyz/tags/sa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Speedo</title>
-      <link>http://example.org/tags/speedo/</link>
+      <title>sa lime</title>
+      <link>http://cozykeys.xyz/tags/sa-lime/</link>
+      <pubDate>Tue, 11 Sep 2018 21:31:26 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/sa-lime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>advantage2</title>
+      <link>http://cozykeys.xyz/tags/advantage2/</link>
+      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/advantage2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>atreus62</title>
+      <link>http://cozykeys.xyz/tags/atreus62/</link>
+      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/atreus62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cooler master</title>
+      <link>http://cozykeys.xyz/tags/cooler-master/</link>
+      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/cooler-master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enjoypbt</title>
+      <link>http://cozykeys.xyz/tags/enjoypbt/</link>
+      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/enjoypbt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kinesis</title>
+      <link>http://cozykeys.xyz/tags/kinesis/</link>
+      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/kinesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tai hao</title>
+      <link>http://cozykeys.xyz/tags/tai-hao/</link>
+      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/tai-hao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tkl</title>
+      <link>http://cozykeys.xyz/tags/tkl/</link>
+      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/tkl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cherry</title>
+      <link>http://cozykeys.xyz/tags/cherry/</link>
+      <pubDate>Sun, 09 Sep 2018 12:31:23 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/cherry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ergodox</title>
+      <link>http://cozykeys.xyz/tags/ergodox/</link>
+      <pubDate>Sun, 09 Sep 2018 12:31:23 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/ergodox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dactyl</title>
+      <link>http://cozykeys.xyz/tags/dactyl/</link>
+      <pubDate>Sun, 09 Sep 2018 11:43:01 -0700</pubDate>
+      
+      <guid>http://cozykeys.xyz/tags/dactyl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speedo</title>
+      <link>http://cozykeys.xyz/tags/speedo/</link>
       <pubDate>Tue, 04 Sep 2018 07:06:39 -0700</pubDate>
       
-      <guid>http://example.org/tags/speedo/</guid>
+      <guid>http://cozykeys.xyz/tags/speedo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tai Hao</title>
-      <link>http://example.org/tags/tai-hao/</link>
-      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
+      <title>iris</title>
+      <link>http://cozykeys.xyz/tags/iris/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>http://example.org/tags/tai-hao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tkl</title>
-      <link>http://example.org/tags/tkl/</link>
-      <pubDate>Mon, 10 Sep 2018 21:10:26 -0700</pubDate>
-      
-      <guid>http://example.org/tags/tkl/</guid>
+      <guid>http://cozykeys.xyz/tags/iris/</guid>
       <description></description>
     </item>
     

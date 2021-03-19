@@ -67,107 +67,121 @@
 
 
 <div style="margin:25px;">
-    <div style="font-size:18px;">
-
-<h1 id="first-handwired-speedo">First Handwired Speedo</h1>
-
+    <div style="font-size:18px;"><h1 id="first-handwired-speedo">First Handwired Speedo</h1>
 <p>This build log documents the process I went through in creating the first,
 functional Speedo keyboard. It is rather long so a table of contents is
 provided to make finding a specific step a bit easier.</p>
-
 <h2 id="table-of-contents">Table of Contents</h2>
-
 <ul>
 <li><a href="#2018-02-16">2018/02/16</a>
-
 <ul>
 <li>Creating the Thumb Clusters</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#2018-02-23">2018/02/23</a>
-
 <ul>
 <li>Rev1 Comes to an End</li>
 <li>Oops</li>
 <li>Solution</li>
 <li>Next Steps</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#2018-02-25">2018/02/25</a>
-
 <ul>
 <li>Order is in for Rev2</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#2018-02-26">2018/02/26</a>
-
 <ul>
-<li>Deciding on Parts</li>
+<li>Deciding on Parts
+<ul>
 <li>The Decision</li>
 <li>A Close Second</li>
-</ul></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href="#2018-03-07">2018/03/07</a>
-
 <ul>
 <li>The parts arrived!</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="#2018-03-10">2018/03/10</a>
-
 <ul>
-<li>Starting the Build</li>
+<li>Starting the Build
+<ul>
 <li>Inserting the Switches</li>
 <li>Gluing the Switches in Place</li>
 <li>Soldering the Diodes</li>
-</ul></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href="#2018-03-11">2018/03/11</a>
-
 <ul>
-<li>Rows and Columns</li>
+<li>Rows and Columns
+<ul>
 <li>Rows</li>
 <li>Columns</li>
-</ul></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href="#2018-03-13">2018/03/13</a>
-
 <ul>
-<li>Rows and Columns (Cont.)</li>
+<li>Rows and Columns (Cont.)
+<ul>
 <li>More Columns</li>
-</ul></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href="#2018-03-14">2018/03/14</a>
-
 <ul>
-<li>Rows and Columns (Cont. x 2)</li>
+<li>Rows and Columns (Cont. x 2)
+<ul>
 <li>Finishing the Columns</li>
-</ul></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href="#2018-03-28">2018/03/28</a>
-
 <ul>
-<li>Destroying a Teensy 3.2</li>
+<li>Destroying a Teensy 3.2
+<ul>
 <li>The First Few Columns</li>
 <li>The Accident</li>
-</ul></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href="#2018-04-02">2018/04/02</a>
-
 <ul>
-<li>Getting the Controller Ready</li>
+<li>Getting the Controller Ready
+<ul>
 <li>Attaching the Wires</li>
 <li>Placing the Controller</li>
-</ul></li>
+</ul>
+</li>
+</ul>
+</li>
 <li><a href="#2018-04-03">2018/04/03</a>
-
 <ul>
-<li>Finishing Up the Soldering</li>
+<li>Finishing Up the Soldering
+<ul>
 <li>Connecting the Rows</li>
 <li>Connecting the Columns</li>
 <li>Keycaps and Firmware</li>
-</ul></li>
 </ul>
-
-<p><a name="2018-02-16" aria-hidden="true"></a></p>
-
-<h1 id="02-16-2018">02/16/2018</h1>
-
+</li>
+</ul>
+</li>
+</ul>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="02162018">02/16/2018</h1>
 <h2 id="creating-the-thumb-clusters">Creating the Thumb Clusters</h2>
-
 <p>I started off by copying a single switch cutout and rotating it back 10 degrees
 so it would be horizontal:</p>
-
 
 
 <a
@@ -181,12 +195,10 @@ so it would be horizontal:</p>
 
 </a>
 
-
 <p>I wanted to visualize what the keycaps would look like to get a better idea of
 how to position the keys. PimpMyKeyboard provides PDF spec sheets for their
 keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 18.1mm:</p>
-
 
 
 <a
@@ -200,9 +212,7 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 
 </a>
 
-
 <p>Using those dimensions, I added the keycap overlay:</p>
-
 
 
 <a
@@ -216,9 +226,7 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 
 </a>
 
-
 <p>I figured the best way to get a nice arc shape for the thumb keys was to lay them out on a circle. I had to brush up on some trigonometry to remember how to get the coordinates of points on a circle:</p>
-
 
 
 <a
@@ -232,9 +240,7 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 
 </a>
 
-
 <p>One slight annoyance in Inkscape (Or SVG files in general?) is that the X,Y coordinates of an object are not based on the object&rsquo;s center but on the bottom left most point:</p>
-
 
 
 <a
@@ -248,9 +254,7 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 
 </a>
 
-
 <p>Also, when an object is rotated, height and width changes as well:</p>
-
 
 
 <a
@@ -264,9 +268,7 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 
 </a>
 
-
 <p>These aren&rsquo;t a big deal we can easily get the adjusted values with a few simple equations:</p>
-
 
 
 <a
@@ -280,15 +282,10 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 
 </a>
 
-
 <p>The last step was finding a suitable value for <em>r</em>. I could have done some more math and come up with a radius based on the distance between the closest corners of each keycap; however, that seemed like more work than doing a little bit of trial and error.</p>
-
 <p>So, I started with a radius of 50mm. That was too small so I bumped it up to 100mm, which was too big. From there I basically just did a manual binary search until I came to the value of 82 which seemed to suffice.</p>
-
 <p>I decided to start at an angle of 10 degrees &ndash; which is the angle the keys are already at on the Atreus62 &ndash; and bump it up by 15 degrees for each additional key.</p>
-
 <p>The final product:</p>
-
 
 
 <a
@@ -302,13 +299,9 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 
 </a>
 
-
 <p>After that I just had to paste the thumb clust back on the original board. I lined up the first key using the same spacing that the existing keys on the board used and then redesigned the bottom of the case to accomodate the additional real estate.</p>
-
 <p>I ordered the first revision from Ponoko so I will see if it is comfortable and if I think anything should be changed.</p>
-
 <p>The first revision:</p>
-
 
 
 <a
@@ -322,21 +315,15 @@ keycaps so I got the dimensions for a DCS 1u keycap from that and rounded to
 
 </a>
 
-
-<p><a name="2018-02-23" aria-hidden="true"></a></p>
-
-<h1 id="02-23-2018">02/23/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="02232018">02/23/2018</h1>
 <h2 id="rev1-comes-to-an-end">Rev1 Comes to an End</h2>
-
 <p>Yesterday the first iteration of the case files came from Ponoko. I&rsquo;m glad I
 chose Ponoko because it was the cheapest option and I made a couple of
 mistakes.</p>
-
 <p>They were out of the material that I ordered which was a light blue matte
 acrylic so they used the clear blue gloss acrylic instead. Some pictures of the
 plates:</p>
-
 
 
 <a
@@ -349,7 +336,6 @@ plates:</p>
         style=" width:100%; margin-top: 10px; margin-bottom: 10px;">
 
 </a>
-
 
 
 
@@ -366,7 +352,6 @@ plates:</p>
 
 
 
-
 <a
     href="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/02-22_20-42-02_00_1600x1200.jpg"
     style="height: 100%; width: 100%;">
@@ -378,15 +363,11 @@ plates:</p>
 
 </a>
 
-
 <h2 id="oops">Oops</h2>
-
 <p>The critical mistake that I made is the the second innermost thumb key is too
 close to the key just above it. I thought I left enough space for the keycaps
 to fit but I guess not.</p>
-
 <p>It&rsquo;s more obvious in this picture I took in front of my monitor:</p>
-
 
 
 <a
@@ -400,61 +381,46 @@ to fit but I guess not.</p>
 
 </a>
 
-
 <h2 id="solution">Solution</h2>
-
 <p>Anyways, after a bit of comparing the Atreus62 keys to the Speedo, I&rsquo;ve decided
 to put the two innermost thumb keys back to their original location. Pulling
 the innermost key further down is actually less comfortable and the angle on
 the second innermost thumb key is unnecessary.</p>
-
 <p>That said, the two outer thumb keys are incredibly comfortable so I will be
 leaving those exactly as is. That&rsquo;s actually a bit of a relief because the
 perimeter of the case doesn&rsquo;t have to change now.</p>
-
 <h2 id="next-steps">Next Steps</h2>
-
 <p>So, the next step will be moving those two thumb keys back and then designing
-the middle layers. I&rsquo;m thinking I might make two different middle layers:
-* A &ldquo;top&rdquo; middle layer with an area for the controller to sit
-* A &ldquo;bottom&rdquo; middle layer that only runs the perimeter of the case</p>
-
+the middle layers. I&rsquo;m thinking I might make two different middle layers:</p>
+<ul>
+<li>A &ldquo;top&rdquo; middle layer with an area for the controller to sit</li>
+<li>A &ldquo;bottom&rdquo; middle layer that only runs the perimeter of the case</li>
+</ul>
 <p>Since I don&rsquo;t have a PCB, the controller is just going to be hot glued to the
 case. Adding a plastic area for it to fit snuggly in should help avoid any
 issues when plugging/unplugging the USB cable. The downside is that a
 translucent switch plate is out of the question because the hot glue will be
 ugly to look at.</p>
-
 <p>The alternative is to use a breakout board, something like this:</p>
-
 <p><a href="https://www.tindie.com/products/loglow/teensy-32-breakout-revision-d/">https://www.tindie.com/products/loglow/teensy-32-breakout-revision-d/</a></p>
-
 <p>Unfortunately that is big and a goal for this board is to keep it as low
 profile as possible.</p>
-
 <p>I&rsquo;m hoping to get rev2 done tomorrow and ordered by Monday! I currently have a
 Kailh low profile switch tester and 70 low profile keycaps in the mail. I&rsquo;m
 hoping to decide which switch I plan to use so I can get the rest of the parts
 I need ordered ASAP.</p>
-
-<p><a name="2018-02-25" aria-hidden="true"></a></p>
-
-<h1 id="02-25-2018">02/25/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="02252018">02/25/2018</h1>
 <h2 id="order-is-in-for-rev2">Order is in for Rev2</h2>
-
 <p>So this evening I finally got around to making the adjustments that I wanted in
 revision 2.</p>
-
 <p>I actually decided on one more significant change which was to add 4 additional
 keys in the center of the board to reduce the wasted space. I plan to use these
 as media keys (Volume up/down, play/pause, and next track) but I could see how
 some folks might like having dedicated arrow keys. They also provide a decent
 spot to showcase artisans for those who are into that sort of thing.</p>
-
 <p>This time I did a better job at using keycap overlays to ensure that all of the
 keys would fit:</p>
-
 
 
 <a
@@ -468,21 +434,19 @@ keys would fit:</p>
 
 </a>
 
-
 <p><em>I took that screenshot before I fixed the alignment so the final version is
 actually centered correctly.</em></p>
-
 <p>Other than that, none of the changes are all that interesting so I&rsquo;m not going
-to go into the process here. The changes included:
-* Move the two inner thumb keys back to their original spots
-* Add more screwholes to the board to make it feel less flimsy
-* Change the screwholes to fit M2 better because I have a lot of extra M2
-  screws and standoffs lying around from Iris builds
-* Add etching around where the Teensy should sit
-* Add Speedo logo etching on the back</p>
-
+to go into the process here. The changes included:</p>
+<ul>
+<li>Move the two inner thumb keys back to their original spots</li>
+<li>Add more screwholes to the board to make it feel less flimsy</li>
+<li>Change the screwholes to fit M2 better because I have a lot of extra M2
+screws and standoffs lying around from Iris builds</li>
+<li>Add etching around where the Teensy should sit</li>
+<li>Add Speedo logo etching on the back</li>
+</ul>
 <p>The final product:</p>
-
 
 
 <a
@@ -496,40 +460,29 @@ to go into the process here. The changes included:
 
 </a>
 
-
 <p>I&rsquo;m hoping that this one feels good enough to settle on. Ideally I will use
 this opportunity to learn a little more about PCB design and try to design a
 PCB once I&rsquo;m happy with the layout.</p>
-
-<p><a name="2018-02-27" aria-hidden="true"></a></p>
-
-<h1 id="02-27-2018">02/27/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="02272018">02/27/2018</h1>
 <h2 id="deciding-on-parts">Deciding on Parts</h2>
-
 <p>Now that the second revision of the case file has been ordered from Ponoko, I
 need to decide what parts I&rsquo;m going to use for the first build.</p>
-
 <h3 id="the-decision">The Decision</h3>
-
 <ul>
 <li>Switches: Kailh low-profile reds</li>
 <li>Keycaps: Blank low-profile white keycaps</li>
 </ul>
-
 <p>I bought a low-profile switch tester set from NovelKeys and tried out all of
 the switches. In terms of feel, the jades actually feel heavenly but they are
 also incredibly loud and I would feel guilty using them in the presence of
 others.</p>
-
 <p>These days I generally like linear switches but the low-profile mixed with
 linear actually doesn&rsquo;t feel great. I would go with browns instead but they are
 out of stock on NovelKeys so it looks like I&rsquo;ll just suck it up and use reds.</p>
-
 <p>One shitty thing about going with low-profile switches is that only one store
 sells compatible keycaps and the quality leaves much to be desired. I ordered
 70 of them and many of them have blemishes as shown in this picture:</p>
-
 
 
 <a
@@ -543,14 +496,11 @@ sells compatible keycaps and the quality leaves much to be desired. I ordered
 
 </a>
 
-
 <h3 id="a-close-second">A Close Second</h3>
-
 <p>There is currently a group buy in progress for some keycaps that look really
 nice. The base kit is £61.50 which is $85.81 at the time of writing this. It
 has the exact amount of 1u keys necessary to fill the keyboard and would look
 like:</p>
-
 
 
 <a
@@ -564,24 +514,16 @@ like:</p>
 
 </a>
 
-
 <p>Link:
 <a href="http://www.mechsupply.co.uk/product/devlin-q-series-pennine-planck-preonic-ergodox-keyset">http://www.mechsupply.co.uk/product/devlin-q-series-pennine-planck-preonic-ergodox-keyset</a></p>
-
 <p>I&rsquo;ve heard very good things about all of the Devlin keycaps which is what is
 what tempted me the most to go this route. I also already have plenty of normal
 switches so I wouldn&rsquo;t need to order any.</p>
-
 <p>I&rsquo;ll probably end up getting these keycaps anyways and using them in a future build.</p>
-
-<p><a name="2018-03-07" aria-hidden="true"></a></p>
-
-<h1 id="03-07-2018">03/07/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="03072018">03/07/2018</h1>
 <h2 id="the-parts-arrived">The parts arrived!</h2>
-
 <p>My low-profile keycaps and Kailh choc red switches arrived so I should now have everything I need to get started on the build.</p>
-
 
 
 <a
@@ -595,17 +537,11 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
-<p><a name="2018-03-10" aria-hidden="true"></a></p>
-
-<h1 id="03-10-2018">03/10/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="03102018">03/10/2018</h1>
 <h2 id="starting-the-build">Starting the Build</h2>
-
 <h3 id="inserting-the-switches">Inserting the Switches</h3>
-
 <p>First step was putting the switches into the plate:</p>
-
 
 
 <a
@@ -621,7 +557,6 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 
 
-
 <a
     href="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-21-47_00_1600x1200.jpg"
     style="height: 100%; width: 100%;">
@@ -633,11 +568,8 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <h3 id="gluing-the-switches-in-place">Gluing the Switches in Place</h3>
-
 <p>Next was to hot glue the switches in place. Because the switches wouldn&rsquo;t be PCB mounted, this is necessary to keep them aligned and in place:</p>
-
 
 
 <a
@@ -653,7 +585,6 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 
 
-
 <a
     href="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_09-59-21_00_1600x1200.jpg"
     style="height: 100%; width: 100%;">
@@ -665,15 +596,10 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <h3 id="soldering-the-diodes">Soldering the Diodes</h3>
-
 <p>For the soldering process, I roughly followed the advice from this guide on GeekHack:</p>
-
 <p><a href="https://geekhack.org/index.php?topic=87689.0">A modern handwiring guide</a></p>
-
 <p>So, first thing I did was create little loops in each diode and place them on the switch pins.</p>
-
 
 
 <a
@@ -689,7 +615,6 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 
 
-
 <a
     href="http://assets.cozykeys.xyz/images/builds/speedo-first-handwire/03-10_17-50-18_00_1600x1200.jpg"
     style="height: 100%; width: 100%;">
@@ -701,9 +626,7 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>And then I soldered them.</p>
-
 
 
 <a
@@ -717,21 +640,13 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>I ended the day with all of the diodes soldered but didn&rsquo;t want to get started on the rows yet.</p>
-
-<p><a name="2018-03-11" aria-hidden="true"></a></p>
-
-<h1 id="03-11-2018">03/11/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="03112018">03/11/2018</h1>
 <h2 id="rows-and-columns">Rows and Columns</h2>
-
 <h3 id="rows">Rows</h3>
-
 <p>With all the diodes done, I started on the rows. I roughly measured the distance between switches and then stripped the wire in segments.</p>
-
 <p>Then, following the advice in the guide, I looped each diode pin around the stripped section of wire and soldered the joint.</p>
-
 
 
 <a
@@ -745,9 +660,7 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>Rinse repeat:</p>
-
 
 
 <a
@@ -761,9 +674,7 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>And again&hellip;</p>
-
 
 
 <a
@@ -777,9 +688,7 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>Ah, finally.</p>
-
 
 
 <a
@@ -793,13 +702,9 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <h3 id="columns">Columns</h3>
-
 <p>With the rows done, I started on the columns. Again, I roughly measured the distance between the switches vertically and then stripped them accordingly.</p>
-
 <p>I created the first loop on one end and soldered that to the top switch in the column. Then, I would move the sleeve close to the joint, wrap a new loop around the pin on the next switch and solder that joint. Repeat this a few more times and the column is done.</p>
-
 
 
 <a
@@ -813,9 +718,7 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>I only made it through 3 columns before deciding to call it a day. Making the loops for both the rows and columns is an ultra-tedious pain in the ass.</p>
-
 
 
 <a
@@ -829,17 +732,11 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
-<p><a name="2018-03-13" aria-hidden="true"></a></p>
-
-<h1 id="03-13-2018">03/13/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="03132018">03/13/2018</h1>
 <h2 id="rows-and-columns-cont">Rows and Columns (Cont.)</h2>
-
 <h3 id="more-columns">More Columns</h3>
-
 <p>Not much to say other than that I continued on the columns. As previously mentioned, they are quite annoying to do so I decided to stop after 6.</p>
-
 
 
 <a
@@ -853,19 +750,12 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>For the most part I enjoy the building process but this particular task was definitely a test of my patience.</p>
-
-<p><a name="2018-03-14" aria-hidden="true"></a></p>
-
-<h1 id="03-14-2018">03/14/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="03142018">03/14/2018</h1>
 <h2 id="rows-and-columns-cont-x-2">Rows and Columns (Cont. x 2)</h2>
-
 <h3 id="finishing-the-columns">Finishing the Columns</h3>
-
 <p>I finished up the columns and decided on how I wanted to wire up the middle keys:</p>
-
 
 
 <a
@@ -879,17 +769,11 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
-<p><a name="2018-03-28" aria-hidden="true"></a></p>
-
-<h1 id="03-28-2018">03/28/2018</h1>
-
-<h2 id="destroying-a-teensy-3-2">Destroying a Teensy 3.2</h2>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="03282018">03/28/2018</h1>
+<h2 id="destroying-a-teensy-32">Destroying a Teensy 3.2</h2>
 <h3 id="the-first-few-columns">The First Few Columns</h3>
-
 <p>The final step of attaching the controller was upon me so I started wiring up the columns. I was soldering them to the switches first and then to the PCB:</p>
-
 
 
 <a
@@ -903,13 +787,9 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <h3 id="the-accident">The Accident</h3>
-
 <p>I have something called benign essential tremor which causes my hands to be a bit shaky. Normally it isn&rsquo;t problematic but today it was.</p>
-
 <p>I couldn&rsquo;t keep my hand steady enough and I accidentally got solder on the pins of the processing unit on my Teensy 3.2.</p>
-
 
 
 <a
@@ -923,27 +803,16 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>Trying to use a solder sucker to clean it up didn&rsquo;t help and I ended up just spreading it around even more.</p>
-
 <p>So, I scrapped the chip, desoldered the few switch joints I&rsquo;d completed, and ordered a Teensy 2.0.</p>
-
 <p>On the bright side, the Teensy 3.2 requires setting up ChibiOS to use QMK and there&rsquo;s not much documentation for doing that. At least the 2.0 should make the firmware setup process easier.</p>
-
-<p><a name="2018-04-02" aria-hidden="true"></a></p>
-
-<h1 id="04-02-2018">04/02/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="04022018">04/02/2018</h1>
 <h2 id="getting-the-controller-ready">Getting the Controller Ready</h2>
-
 <h3 id="attaching-the-wires">Attaching the Wires</h3>
-
 <p>To avoid making the same mistake again, I decided the attach the wires to the contoller first this time.</p>
-
 <p>I cut wires plenty long to reach each row/column switch, stripped one end, looped it, and then solder to the backside of the controller.</p>
-
 <p>I forgot to take pictures during this process, but this is the end result:</p>
-
 
 
 <a
@@ -957,25 +826,15 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>Soldering on the bottom side of the chip let me worry less about other electrical components in close proximity to the solder joints.</p>
-
 <h3 id="placing-the-controller">Placing the Controller</h3>
-
 <p>With all the wires attached, I used flush cutters to clean up the solder joints and then hot glued the chip to the plate to keep it in place.</p>
-
-<p><a name="2018-04-03" aria-hidden="true"></a></p>
-
-<h1 id="04-03-2018">04/03/2018</h1>
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<h1 id="04032018">04/03/2018</h1>
 <h2 id="finishing-up-the-soldering">Finishing Up the Soldering</h2>
-
 <h3 id="connecting-the-rows">Connecting the Rows</h3>
-
 <p>I attached the rows first. I pretty much just pulled each wire to where it need to be, cut it to length, and stripped ~0.5&rdquo; off of the end.</p>
-
 <p>Then I wrapped it in a loop around the joint and soldered.</p>
-
 
 
 <a
@@ -989,13 +848,9 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <h3 id="connecting-the-columns">Connecting the Columns</h3>
-
 <p>Then I did the exact same thing for the columns.</p>
-
 <p>First 6 columns:</p>
-
 
 
 <a
@@ -1009,9 +864,7 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>Then the rest:</p>
-
 
 
 <a
@@ -1025,9 +878,7 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <p>Holy shit I&rsquo;m finally done soldering:</p>
-
 
 
 <a
@@ -1041,11 +892,8 @@ switches so I wouldn&rsquo;t need to order any.</p>
 
 </a>
 
-
 <h3 id="keycaps-and-firmware">Keycaps and Firmware</h3>
-
 <p>Finally I put keycaps on and set up some initial firmware.</p>
-
 
 
 <a
